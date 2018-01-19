@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+测试用简易blog模板
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+yes no yes 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[leafSnowzero@lolifantasy.club](mailto:leafSnowzero@lolifantasy.club)
