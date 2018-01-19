@@ -5,6 +5,6 @@ title: Hello World!
 
 Arisa!!!
 
-![_config.yml]({{ site.baseurl }}/images/arisa.jpg)
+![_config.yml]({{ site.baseurl }}/images/arisaS.jpg)
 
 wow wow wow
